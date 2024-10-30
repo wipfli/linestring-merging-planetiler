@@ -5,7 +5,7 @@ https://oliverwipfli.ch/improving-linestring-merging-in-planetiler-2024-10-30/
 
 ## Steps
 
-Use Java 21+.
+Use Java 22+.
 
 Get the Planetiler JAR:
 
